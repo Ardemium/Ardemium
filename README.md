@@ -12,7 +12,7 @@
   
 <table align="center">
   <tr>
-    <td valign="top" width="60%">
+    <td valign="top" width="50%">
 
 Hello! I am Arthur, a software engineer with a passion for problem-solving and continuous learning. I thrive on innovation and strive to contribute to the success of a dynamic and progressive organization. 
 
@@ -21,7 +21,7 @@ Feel free to connect with me:
 - [Email](mailto:arthurdjamardzhashvili@outlook.com)
 
     </td>
-    <td valign="top" width="40%">
+    <td valign="top" width="50%">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ardemium&theme=tokyonight" alt="GitHub streak"/>
 
@@ -53,14 +53,14 @@ The Hague University of Applied Sciences (August 2021 - July 2025)
 
 <table align="center">
   <tr>
-    <td valign="top" width="30%">
+    <td valign="top" width="33%">
 
 **Current Projects**
 
 ![Under Construction](https://img.shields.io/badge/Status-Under%20Construction-yellow)
 
 </td>
-    <td valign="top" width="40%">
+    <td valign="top" width="33%">
 
 **Past Projects**
 
@@ -69,7 +69,7 @@ The Hague University of Applied Sciences (August 2021 - July 2025)
 </td>
 
 </td>
-    <td valign="top" width="30%">
+    <td valign="top" width="33%">
 
 **Future Projects**
 
@@ -161,14 +161,14 @@ The Hague University of Applied Sciences (August 2021 - July 2025)
 
 <table align="center">
   <tr>
-    <td valign="top" width="60%">
+    <td valign="top" width="50%">
 
 - Russian (Native)
 - English (Professional Working Proficiency)
 - Dutch (Native)
 
     </td>
-    <td valign="top" width="40%">
+    <td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardemium&layout=compact&theme=tokyonight" alt="Top languages"/>
 
@@ -183,13 +183,13 @@ The Hague University of Applied Sciences (August 2021 - July 2025)
 
 <table align="center">
   <tr>
-    <td valign="top" width="60%">
+    <td valign="top" width="50%">
 
 - Introduction to Digital Accessibility
 - Technical Support Fundamentals
 
     </td>
-    <td valign="top" width="40%">
+    <td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=ardemium&show_icons=true&theme=radical" alt="GitHub stats"/>
 
