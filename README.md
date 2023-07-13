@@ -12,7 +12,7 @@
   
 <table align="center">
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="60%">
 
 Hello! I am Arthur, a software engineer with a passion for problem-solving and continuous learning. I thrive on innovation and strive to contribute to the success of a dynamic and progressive organization. 
 
@@ -21,7 +21,7 @@ Feel free to connect with me:
 - [Email](mailto:arthurdjamardzhashvili@outlook.com)
 
     </td>
-    <td valign="top" width="50%">
+    <td valign="top" width="40%">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ardemium&theme=tokyonight" alt="GitHub streak"/>
 
@@ -34,26 +34,52 @@ Feel free to connect with me:
 
 ## 🎓 Education 🎓
 
+<table align="center">
+  <tr>
+    
 📚 **Bachelor's degree, Information & Communication Technology** 
 The Hague University of Applied Sciences (August 2021 - July 2025)
+
+ </tr>
+</table>
+
+
 
 <br>
 
 ---
 
 ## 🎯 Projects 🎯
+
+<table align="center">
+  <tr>
+    <td valign="top" width="30%">
+
 **Current Projects**
 
 ![Under Construction](https://img.shields.io/badge/Status-Under%20Construction-yellow)
+
+</td>
+    <td valign="top" width="40%">
 
 **Past Projects**
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ardemium&repo=CI_CD_Template&theme=tokyonight)](https://github.com/ardemium/CI_CD_Template)
 
+</td>
+
+</td>
+    <td valign="top" width="30%">
+
 **Future Projects**
 
 - Generic Webcrawler
 - Template for authentication and authorization
+
+</td>
+
+  </tr>
+</table>
 
 <br>
 
@@ -61,6 +87,9 @@ The Hague University of Applied Sciences (August 2021 - July 2025)
 
 ## 🌱 What I'm learning right now 🌱
 
+<table align="center">
+  <tr>
+    
 - Programming Languages: Java, C#, Python, and JavaScript
 - Tools: Figma, MS Office, Docker, Github, GIT, and Power BI
 - Testing: JUnit, xUnit, Moq, Specflow, and Cypress
@@ -68,12 +97,18 @@ The Hague University of Applied Sciences (August 2021 - July 2025)
 - Other: Cloudflare, NGINX, SQL
 - Frameworks: JavaFX, .NET, React
 
+ </tr>
+</table>
+
 <br>
 
 ---
 
 ## 🤝 Let's Collaborate & Learn Together 🤝
 
+<table align="center">
+  <tr>
+    
 **I’m looking to collaborate on:** 
 - Open-source projects related to machine learning and data science.
 - Social impact projects leveraging technology.
@@ -81,6 +116,9 @@ The Hague University of Applied Sciences (August 2021 - July 2025)
 **I’m looking for help with:** 
 - Understanding the practical applications of machine learning algorithms in real-world scenarios.
 - Getting started with contributing to open-source projects.
+
+ </tr>
+</table>
 
 <br>
 
@@ -123,14 +161,14 @@ The Hague University of Applied Sciences (August 2021 - July 2025)
 
 <table align="center">
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="60%">
 
 - Russian (Native)
 - English (Professional Working Proficiency)
 - Dutch (Native)
 
     </td>
-    <td valign="top" width="50%">
+    <td valign="top" width="40%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardemium&layout=compact&theme=tokyonight" alt="Top languages"/>
 
@@ -145,13 +183,13 @@ The Hague University of Applied Sciences (August 2021 - July 2025)
 
 <table align="center">
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="60%">
 
 - Introduction to Digital Accessibility
 - Technical Support Fundamentals
 
     </td>
-    <td valign="top" width="50%">
+    <td valign="top" width="40%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=ardemium&show_icons=true&theme=radical" alt="GitHub stats"/>
 
@@ -164,16 +202,14 @@ The Hague University of Applied Sciences (August 2021 - July 2025)
 
 ## 💬 Let's Connect 💬
 
+<table align="center">
+  <tr>
+
 - I would love to share my journey in software engineering.
 - Ask me about my projects and the challenges I faced while working on them.
 
-<br>
-
----
-
-## 😄 Pronouns 😄
-
-He/Him
+ </tr>
+</table>
 
 <br>
 
@@ -181,4 +217,10 @@ He/Him
 
 ## ⚡ Fun fact ⚡
 
+<table align="center">
+  <tr>
+
 I'm a huge fan of logic puzzles and strategy board games!
+
+ </tr>
+</table>
