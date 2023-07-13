@@ -6,13 +6,13 @@
 
 ## 📜 Ardemium: Software Engineer | Problem Solver | Innovator 📜
 
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ardemium&theme=tokyonight" alt="GitHub streak"/>
-
 Hello! I am Arthur, a software engineer with a passion for problem-solving and continuous learning. I thrive on innovation and strive to contribute to the success of a dynamic and progressive organization. 
 
 Feel free to connect with me:
 - [LinkedIn](www.linkedin.com/in/arthur-d)
 - [Email](mailto:arthurdjamardzhashvili@outlook.com)
+
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ardemium&theme=tokyonight" alt="GitHub streak"/>
 
 <br>
 
@@ -34,7 +34,7 @@ The Hague University of Applied Sciences (August 2021 - July 2025)
 
 **Past Projects**
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ardemium&repo=CI_CD_Template)](https://github.com/ardemium/CI_CD_Template)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ardemium&repo=CI_CD_Template&theme=tokyonight)](https://github.com/ardemium/CI_CD_Template)
 
 **Future Projects**
 
@@ -107,30 +107,23 @@ The Hague University of Applied Sciences (August 2021 - July 2025)
 
 ## 🌍 Language Proficiency 🌍
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardemium&layout=compact&theme=tokyonight" alt="Top languages"/>
-
 - Russian (Native)
 - English (Professional Working Proficiency)
 - Dutch (Native)
 
-<br>
-<br>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardemium&layout=compact&theme=tokyonight" alt="Top languages"/>
+
 <br>
 
 ---
 
 ## 📜 Certifications 📜
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ardemium&show_icons=true&theme=radical" alt="GitHub stats"/>
-
 - Introduction to Digital Accessibility
 - Technical Support Fundamentals
 
-<br>
-<br>
-<br>
-<br>
-<br>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=ardemium&show_icons=true&theme=radical" alt="GitHub stats"/>
+
 <br>
 
 ---
