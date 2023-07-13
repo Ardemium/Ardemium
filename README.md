@@ -240,15 +240,15 @@ I'm a huge fan of logic puzzles and strategy board games!
   <summary><h1>📱 Mobile Version</h1></summary>
 
   <pre>
-     ___      .______       _______   _______ .___  ___.  __   __    __  .___  ___. 
-    /   \     |   _  \     |       \ |   ____||   \/   | |  | |  |  |  | |   \/   | 
-   /  ^  \    |  |_)  |    |  .--.  ||  |__   |  \  /  | |  | |  |  |  | |  \  /  | 
-  /  /_\  \   |      /     |  |  |  ||   __|  |  |\/|  | |  | |  |  |  | |  |\/|  | 
- /  _____  \  |  |\  \----.|  '--'  ||  |____ |  |  |  | |  | |  `--'  | |  |  |  | 
-/__/     \__\ | _| `._____||_______/ |_______||__|  |__| |__|  \______/  |__|  |__| 
+     ___       _______ 
+    /   \     |       \ 
+   /  ^  \    |  .--.  |
+  /  /_\  \   |  |  |  |
+ /  _____  \  |  '--'  |
+/__/     \__\ |_______/
 </pre>
 
-  ## 📜 Software Engineer | Problem Solver | Innovator
+  ## 📜 Ardemium: Software Engineer | Problem Solver | Innovator
 
 ### Introduction
 Hello! I am Arthur, a software engineer with a passion for problem-solving and continuous learning. I thrive on innovation and strive to contribute to the success of a dynamic and progressive organization. 
