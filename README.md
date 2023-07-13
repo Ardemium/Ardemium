@@ -16,8 +16,8 @@
 
 ---
 
-<details open>
-  <summary>🖥️ Desktop Version</summary>
+ <details>
+  <summary><h1>🖥️ Desktop Version</h1></summary>
 
   ## 📜 Ardemium: Software Engineer | Problem Solver | Innovator
   
@@ -239,7 +239,7 @@ I'm a huge fan of logic puzzles and strategy board games!
 </details>
 
 <details>
-  <summary>📱 Mobile Version</summary>
+  <summary><h1>📱 Mobile Version</h1></summary>
 
   ## 📜 Ardemium: Software Engineer | Problem Solver | Innovator
 
