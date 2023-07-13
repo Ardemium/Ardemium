@@ -21,7 +21,16 @@
  <details>
   <summary><h1>🖥️ Desktop Version</h1></summary>
 
-  ## 📜 Ardemium: Software Engineer | Problem Solver | Innovator
+  <pre>
+     ___      .______       _______   _______ .___  ___.  __   __    __  .___  ___. 
+    /   \     |   _  \     |       \ |   ____||   \/   | |  | |  |  |  | |   \/   | 
+   /  ^  \    |  |_)  |    |  .--.  ||  |__   |  \  /  | |  | |  |  |  | |  \  /  | 
+  /  /_\  \   |      /     |  |  |  ||   __|  |  |\/|  | |  | |  |  |  | |  |\/|  | 
+ /  _____  \  |  |\  \----.|  '--'  ||  |____ |  |  |  | |  | |  `--'  | |  |  |  | 
+/__/     \__\ | _| `._____||_______/ |_______||__|  |__| |__|  \______/  |__|  |__| 
+</pre>
+
+  ## 📜 Software Engineer | Problem Solver | Innovator
   
 <table align="center">
   <tr>
@@ -230,7 +239,16 @@ I'm a huge fan of logic puzzles and strategy board games!
 <details>
   <summary><h1>📱 Mobile Version</h1></summary>
 
-  ## 📜 Ardemium: Software Engineer | Problem Solver | Innovator
+  <pre>
+     ___      .______       _______   _______ .___  ___.  __   __    __  .___  ___. 
+    /   \     |   _  \     |       \ |   ____||   \/   | |  | |  |  |  | |   \/   | 
+   /  ^  \    |  |_)  |    |  .--.  ||  |__   |  \  /  | |  | |  |  |  | |  \  /  | 
+  /  /_\  \   |      /     |  |  |  ||   __|  |  |\/|  | |  | |  |  |  | |  |\/|  | 
+ /  _____  \  |  |\  \----.|  '--'  ||  |____ |  |  |  | |  | |  `--'  | |  |  |  | 
+/__/     \__\ | _| `._____||_______/ |_______||__|  |__| |__|  \______/  |__|  |__| 
+</pre>
+
+  ## 📜 Software Engineer | Problem Solver | Innovator
 
 ### Introduction
 Hello! I am Arthur, a software engineer with a passion for problem-solving and continuous learning. I thrive on innovation and strive to contribute to the success of a dynamic and progressive organization. 
