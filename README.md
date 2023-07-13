@@ -1,11 +1,14 @@
+  ## 👋 Welcome to Ardemium's GitHub!
+
 <p align="right">
   <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ardemium.ardemium" alt="visitor badge"/>
   <img align="right" src="https://img.shields.io/github/stars/ardemium?affiliations=OWNER&style=social" alt="GitHub stars"/>
   <img align="right" src="https://img.shields.io/github/followers/ardemium?style=social" alt="GitHub followers"/>
 </p>
 
- 
-  ## 👋 Welcome to Ardemium's GitHub!
+<br>
+
+---
   
 ![Banner](https://github.com/Ardemium/Ardemium/blob/main/resources/GitBanner.gif)
 
