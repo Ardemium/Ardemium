@@ -269,12 +269,25 @@ The Hague University of Applied Sciences (August 2021 - July 2025)
 
 ## 🌱 What I'm learning right now
 
-- Programming Languages: Java, C#, Python, and JavaScript
-- Tools: Figma, MS Office, Docker, Github, GIT, and Power BI
-- Testing: JUnit, xUnit, Moq, Specflow, and Cypress
-- Databases: MySQL, MSSQL, SQLite
-- Other: Cloudflare, NGINX, SQL
-- Frameworks: JavaFX, .NET, React
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>Programming Languages: Java, C#, Python, and JavaScript</li>
+        <li>Tools: Figma, MS Office, Docker, Github, GIT, and Power BI</li>
+        <li>Testing: JUnit, xUnit, Moq, Specflow, and Cypress</li>
+        <li>Databases: MySQL, MSSQL, SQLite</li>
+        <li>Other: Cloudflare, NGINX, SQL</li>
+        <li>Frameworks: JavaFX, .NET, React</li>
+      </ul>
+    </td>
+  </tr>
+    <tr>
+    <td>
+      <img src="https://github.com/Ardemium/Ardemium/blob/main/resources/GitBrain.gif" alt="Brain"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
