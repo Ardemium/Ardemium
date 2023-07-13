@@ -9,8 +9,12 @@
 <br>
 
 ---
-  
-![Banner](https://github.com/Ardemium/Ardemium/blob/main/resources/GitBanner.gif)
+
+<div align="center">
+
+<img src="https://github.com/Ardemium/Ardemium/blob/main/resources/GitBanner.gif" alt="Banner"/>
+
+</div>
 
 <br>
 
@@ -98,17 +102,22 @@ The Hague University of Applied Sciences (August 2021 - July 2025)
 
 ## 🌱 What I'm learning right now
 
-<table align="center">
+<table>
   <tr>
-    
-- Programming Languages: Java, C#, Python, and JavaScript
-- Tools: Figma, MS Office, Docker, Github, GIT, and Power BI
-- Testing: JUnit, xUnit, Moq, Specflow, and Cypress
-- Databases: MySQL, MSSQL, SQLite
-- Other: Cloudflare, NGINX, SQL
-- Frameworks: JavaFX, .NET, React
-
- </tr>
+    <td>
+      <ul>
+        <li>Programming Languages: Java, C#, Python, and JavaScript</li>
+        <li>Tools: Figma, MS Office, Docker, Github, GIT, and Power BI</li>
+        <li>Testing: JUnit, xUnit, Moq, Specflow, and Cypress</li>
+        <li>Databases: MySQL, MSSQL, SQLite</li>
+        <li>Other: Cloudflare, NGINX, SQL</li>
+        <li>Frameworks: JavaFX, .NET, React</li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://github.com/Ardemium/Ardemium/blob/main/resources/GitBrain.gif" alt="Brain"/>
+    </td>
+  </tr>
 </table>
 
 <br>
@@ -116,9 +125,6 @@ The Hague University of Applied Sciences (August 2021 - July 2025)
 ---
 
 ## 🤝 Let's Collaborate & Learn Together
-
-<table align="center">
-  <tr>
     
 **I’m looking to collaborate on:** 
 - Open-source projects related to machine learning and data science.
@@ -127,9 +133,6 @@ The Hague University of Applied Sciences (August 2021 - July 2025)
 **I’m looking for help with:** 
 - Understanding the practical applications of machine learning algorithms in real-world scenarios.
 - Getting started with contributing to open-source projects.
-
- </tr>
-</table>
 
 <br>
 
@@ -213,14 +216,8 @@ The Hague University of Applied Sciences (August 2021 - July 2025)
 
 ## 💬 Let's Connect
 
-<table align="center">
-  <tr>
-
 - I would love to share my journey in software engineering.
 - Ask me about my projects and the challenges I faced while working on them.
-
- </tr>
-</table>
 
 <br>
 
@@ -228,13 +225,7 @@ The Hague University of Applied Sciences (August 2021 - July 2025)
 
 ## ⚡ Fun fact
 
-<table align="center">
-  <tr>
-
 I'm a huge fan of logic puzzles and strategy board games!
-
- </tr>
-</table>
 
 </details>
 
@@ -279,6 +270,8 @@ The Hague University of Applied Sciences (August 2021 - July 2025)
 ---
 
 ## 🌱 What I'm learning right now
+
+<img src="https://github.com/Ardemium/Ardemium/blob/main/resources/GitBrain.gif" alt="Brain"/>
 
 - Programming Languages: Java, C#, Python, and JavaScript
 - Tools: Figma, MS Office, Docker, Github, GIT, and Power BI
