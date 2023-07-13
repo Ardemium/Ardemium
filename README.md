@@ -4,7 +4,15 @@
   <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ardemium.ardemium" alt="visitor badge"/>
 </p>
 
+<br>
+
+---
+
 ## 📜 Ardemium: Software Engineer | Problem Solver | Innovator 📜
+  
+<table align="center">
+  <tr>
+    <td valign="top" width="50%">
 
 Hello! I am Arthur, a software engineer with a passion for problem-solving and continuous learning. I thrive on innovation and strive to contribute to the success of a dynamic and progressive organization. 
 
@@ -12,7 +20,13 @@ Feel free to connect with me:
 - [LinkedIn](www.linkedin.com/in/arthur-d)
 - [Email](mailto:arthurdjamardzhashvili@outlook.com)
 
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ardemium&theme=tokyonight" alt="GitHub streak"/>
+    </td>
+    <td valign="top" width="50%">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ardemium&theme=tokyonight" alt="GitHub streak"/>
+
+  </tr>
+</table>
 
 <br>
 
@@ -107,11 +121,21 @@ The Hague University of Applied Sciences (August 2021 - July 2025)
 
 ## 🌍 Language Proficiency 🌍
 
+<table align="center">
+  <tr>
+    <td valign="top" width="50%">
+
 - Russian (Native)
 - English (Professional Working Proficiency)
 - Dutch (Native)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardemium&layout=compact&theme=tokyonight" alt="Top languages"/>
+    </td>
+    <td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardemium&layout=compact&theme=tokyonight" alt="Top languages"/>
+
+  </tr>
+</table>
 
 <br>
 
@@ -119,10 +143,20 @@ The Hague University of Applied Sciences (August 2021 - July 2025)
 
 ## 📜 Certifications 📜
 
+<table align="center">
+  <tr>
+    <td valign="top" width="50%">
+
 - Introduction to Digital Accessibility
 - Technical Support Fundamentals
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ardemium&show_icons=true&theme=radical" alt="GitHub stats"/>
+    </td>
+    <td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ardemium&show_icons=true&theme=radical" alt="GitHub stats"/>
+
+  </tr>
+</table>
 
 <br>
 
