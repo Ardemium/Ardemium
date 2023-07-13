@@ -16,8 +16,6 @@
 
 </div>
 
-<br>
-
 ---
 
  <details>
@@ -270,8 +268,6 @@ The Hague University of Applied Sciences (August 2021 - July 2025)
 ---
 
 ## 🌱 What I'm learning right now
-
-<img src="https://github.com/Ardemium/Ardemium/blob/main/resources/GitBrain.gif" alt="Brain"/>
 
 - Programming Languages: Java, C#, Python, and JavaScript
 - Tools: Figma, MS Office, Docker, Github, GIT, and Power BI
