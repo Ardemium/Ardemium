@@ -27,14 +27,19 @@ The Hague University of Applied Sciences (August 2021 - July 2025)
 
 ---
 
-## 🎯 Current & Past Projects 🎯
+## 🎯 Projects 🎯
+**Current Projects**
 
-- Generic Web Crawler
-- Generic Authentication and Authorization service
-- [Apjager: A command-line port scanner (Java)](link_to_project)
-- [TheaterLaak webapp: A website for a fictitious theater (React, .NET)](link_to_project)
-- [BetaGreen: An emission monitor (Java, APIs - RDW, OSM)](link_to_project)
-- [AllApply: A job application platform (JavaFX)](link_to_project)
+![Under Construction](https://img.shields.io/badge/Status-Under%20Construction-yellow)
+
+**Past Projects**
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ardemium&repo=CI_CD_Template)](https://github.com/ardemium/CI_CD_Template)
+
+**Future Projects**
+
+- Generic Webcrawler
+- Template for authentication and authorization
 
 <br>
 
