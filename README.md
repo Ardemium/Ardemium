@@ -36,11 +36,11 @@
   <tr>
     <td valign="top" width="50%">
 
-Hello! I am Arthur, a software engineer with a passion for problem-solving and continuous learning. I thrive on innovation and strive to contribute to the success of a dynamic and progressive organization. 
+Hello! I am Ardemium, a software engineer with a passion for problem-solving and continuous learning. I thrive on innovation and strive to contribute to the success of a dynamic and progressive organization. 
 
 Feel free to connect with me:
 - [LinkedIn](www.linkedin.com/in/arthur-d)
-- [Email](mailto:arthurdjamardzhashvili@outlook.com)
+- [Email](mailto:info@ardemium.nl)
 
     </td>
     <td valign="top" width="50%">
@@ -251,11 +251,11 @@ I'm a huge fan of logic puzzles and strategy board games!
   ## 📜 Ardemium: Software Engineer | Problem Solver | Innovator
 
 ### Introduction
-Hello! I am Arthur, a software engineer with a passion for problem-solving and continuous learning. I thrive on innovation and strive to contribute to the success of a dynamic and progressive organization. 
+Hello! I am Ardemium, a software engineer with a passion for problem-solving and continuous learning. I thrive on innovation and strive to contribute to the success of a dynamic and progressive organization. 
 
 Feel free to connect with me:
 - [LinkedIn](www.linkedin.com/in/arthur-d)
-- [Email](mailto:arthurdjamardzhashvili@outlook.com)
+- [Email](mailto:info@ardemium.nl)
 
 ![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=ardemium&theme=tokyonight)
 
