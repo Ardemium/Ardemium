@@ -39,8 +39,7 @@
 Hello! I am Ardemium, a software engineer with a passion for problem-solving and continuous learning. I thrive on innovation and strive to contribute to the success of a dynamic and progressive organization. 
 
 Feel free to connect with me:
-- [LinkedIn](www.linkedin.com/in/arthur-d)
-- [Email](mailto:info@ardemium.nl)
+- [Email](mailto:contact@ardemium.nl)
 
     </td>
     <td valign="top" width="50%">
@@ -254,8 +253,7 @@ I'm a huge fan of logic puzzles and strategy board games!
 Hello! I am Ardemium, a software engineer with a passion for problem-solving and continuous learning. I thrive on innovation and strive to contribute to the success of a dynamic and progressive organization. 
 
 Feel free to connect with me:
-- [LinkedIn](www.linkedin.com/in/arthur-d)
-- [Email](mailto:info@ardemium.nl)
+- [Email](mailto:contact@ardemium.nl)
 
 ![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=ardemium&theme=tokyonight)
 
