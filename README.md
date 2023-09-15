@@ -79,13 +79,14 @@ The Hague University of Applied Sciences (August 2021 - July 2025)
 **Current Projects**
 
 ![Under Construction](https://img.shields.io/badge/Status-Under%20Construction-yellow)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ardemium&repo=DesignPatterns&theme=tokyonight)](https://github.com/ardemium/DesignPatterns)
 
 </td>
     <td valign="top" width="33%">
 
 **Past Projects**
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ardemium&repo=CI_CD_Template&theme=tokyonight)](https://github.com/ardemium/CI_CD_Template)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ardemium&repo=ardemium&theme=tokyonight)](https://github.com/ardemium/ardemium)
 
 </td>
 
@@ -94,8 +95,9 @@ The Hague University of Applied Sciences (August 2021 - July 2025)
 
 **Future Projects**
 
-- Generic Webcrawler
-- Template for authentication and authorization
+- C# course
+- SOLID course
+- OOP course
 
 </td>
 
