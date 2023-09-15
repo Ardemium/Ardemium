@@ -1,7 +1,7 @@
   ## 👋 Welcome to Ardemium's GitHub!
 
 <p align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ardemium.ardemium" alt="visitor badge"/>
+  ![](https://komarev.com/ghpvc/?username=ardemium&style=plastic&color=yellow&label=Visitors)
   <img src="https://img.shields.io/github/stars/ardemium?affiliations=OWNER&style=social" alt="GitHub stars"/>
   <img src="https://img.shields.io/github/followers/ardemium?style=social" alt="GitHub followers"/>
 </p>
